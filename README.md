@@ -1,0 +1,2 @@
+# management_query_table
+vue管理后台最常见的查询和表格组合组件
